@@ -1,0 +1,22 @@
+Instructions:
+
+Screen Resolution adjustment:
+	"+" to enlarge screen
+	"-" to shrink screen
+
+To begin:
+	left click on player tanks to display available paths
+
+	right click on highlighted square to move (can only move three spaces per tank per turn)
+
+	if in range of enemy tank (5 spaces):
+		 left click on player tank again and enemy tank will highlight blue
+		right click on enemy tank to fire
+
+	once turn is over (can't move anymore) press "R" to begin Computer move
+	
+	After computer move is over, player can play again by clicking on player tanks
+	
+	BUG: if player is in range of enemy, enemy will fire but the missiles will come out of the player tank instead of enemy tank
+		
+		
